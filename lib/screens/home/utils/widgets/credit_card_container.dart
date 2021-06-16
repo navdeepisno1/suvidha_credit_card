@@ -35,7 +35,7 @@ class CreditCardContainer extends StatelessWidget {
                 'VISA',
                 color: Colors.white,
                 fontWeight: FontWeight.w700,
-                fontSize: 18,
+                fontSize: 16,
               ),
               CustomText(
                 'Debit Card',
@@ -48,7 +48,7 @@ class CreditCardContainer extends StatelessWidget {
             '9XXX XXXX XXXX 9999',
             color: Colors.white,
             fontWeight: FontWeight.w700,
-            fontSize: 24,
+            fontSize: 20,
           ),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
